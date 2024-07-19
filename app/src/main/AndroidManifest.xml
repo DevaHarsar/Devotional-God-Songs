@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DevotionalGodSongs"
+        tools:targetApi="s">
+        <activity
+            android:name=".velundu"
+            android:exported="false" />
+        <activity
+            android:name=".Thirupavai"
+            android:exported="false" />
+        <activity
+            android:name=".Managalaroopini"
+            android:exported="false" />
+        <activity
+            android:name=".Thiruvembavai"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8702370576330643~4406204471" />
+
+        <activity
+            android:name=".ainthukarathanai"
+            android:exported="true" />
+        <activity
+            android:name=".language"
+            android:exported="true" />
+        <activity
+            android:name=".Vinayager"
+            android:exported="true" />
+        <activity
+            android:name=".ammavinvadivaga"
+            android:exported="true" />
+        <activity
+            android:name=".abiramisong"
+            android:exported="true" />
+        <activity
+            android:name=".ambalthuthi"
+            android:exported="true" />
+        <activity
+            android:name=".anjumalaiazhka"
+            android:exported="true" />
+        <activity
+            android:name=".astalaxmi"
+            android:exported="true" />
+        <activity
+            android:name=".arunachelane"
+            android:exported="true" />
+        <activity
+            android:name=".alagentrasolluku"
+            android:exported="true" />
+        <activity
+            android:name=".alitharumpillayar"
+            android:exported="true" />
+        <activity
+            android:name=".abiramianthathi1"
+            android:exported="true" />
+        <activity
+            android:name=".Ayyapan"
+            android:exported="true" />
+        <activity
+            android:name=".Abirami"
+            android:exported="true" />
+        <activity
+            android:name=".AanaiMukathan"
+            android:exported="true" />
+        <activity
+            android:name=".TamilButton"
+            android:exported="true" />
+        <activity
+            android:name=".vinayagarAgaval"
+            android:exported="true" />
+        <activity
+            android:name=".bagavansaranam"
+            android:exported="true" />
+        <activity
+            android:name=".bajakovindham"
+            android:exported="true" />
+        <activity
+            android:name=".ganapathiyaearulvai"
+            android:exported="true" />
+        <activity
+            android:name=".ganapathysaranam"
+            android:exported="true" />
+        <activity
+            android:name=".gayathrimantra"
+            android:exported="true" />
+        <activity
+            android:name=".hanuman"
+            android:exported="true" />
+        <activity
+            android:name=".hanumanchalisha"
+            android:exported="true" />
+        <activity
+            android:name=".hanumankavasam"
+            android:exported="true" />
+        <activity
+            android:name=".harivarasanam"
+            android:exported="true" />
+        <activity
+            android:name=".haraharasivanae"
+            android:exported="true" />
+        <activity
+            android:name=".jeyaganapathy"
+            android:exported="true" />
+        <activity
+            android:name=".jeyajeyadevi"
+            android:exported="true" />
+        <activity
+            android:name=".kanagathara"
+            android:exported="true" />
+        <activity
+            android:name=".kandhasastikavasam"
+            android:exported="true" />
+        <activity
+            android:name=".karpagaratchambigaipotri"
+            android:exported="true" />
+        <activity
+            android:name=".kundrathilaekumaranuku"
+            android:exported="true" />
+        <activity
+            android:name=".kuraiondrumillai"
+            android:exported="true" />
+        <activity
+            android:name=".Laxmi"
+            android:exported="true" />
+        <activity
+            android:name=".laxminarasimar"
+            android:exported="true" />
+        <activity
+            android:name=".mahalaxmislogan"
+            android:exported="true" />
+        <activity
+            android:name=".Murugar"
+            android:exported="true" />
+        <activity
+            android:name=".Murugarporti"
+            android:exported="true" />
+        <activity
+            android:name=".Murugarvaruvan"
+            android:exported="true" />
+        <activity
+            android:name=".muthaithirupathithiru"
+            android:exported="true" />
+        <activity
+            android:name=".narashimarpotri"
+            android:exported="true" />
+        <activity
+            android:name=".narashimarmanthiram"
+            android:exported="true" />
+        <activity
+            android:name=".narashimarpancharatnam"
+            android:exported="true" />
+        <activity
+            android:name=".narashimhakavasam"
+            android:exported="true" />
+        <activity
+            android:name=".omjeyasrisai"
+            android:exported="true" />
+        <activity
+            android:name=".OnpathuKolum"
+            android:exported="true" />
+        <activity
+            android:name=".pallikattu"
+            android:exported="true" />
+        <activity
+            android:name=".panjamugahanuman"
+            android:exported="true" />
+        <activity
+            android:name=".pillyarpillayarperumei"
+            android:exported="true" />
+        <activity
+            android:name=".raksharaksha"
+            android:exported="true" />
+        <activity
+            android:name=".Saibaba"
+            android:exported="true" />
+        <activity
+            android:name=".saisaranam"
+            android:exported="true" />
+        <activity
+            android:name=".Shivan"
+            android:exported="true" />
+        <activity
+            android:name=".shivanpotri"
+            android:exported="true" />
+        <activity
+            android:name=".shivanvetraki"
+            android:exported="true" />
+        <activity
+            android:name=".sivapuranam"
+            android:exported="true" />
+        <activity
+            android:name=".sollasollainikuthada"
+            android:exported="true" />
+        <activity
+            android:name=".sriramajeyam"
+            android:exported="true" />
+        <activity
+            android:name=".thirupalliyeluchi"
+            android:exported="true" />
+        <activity
+            android:name=".thiruparkadalil"
+            android:exported="true" />
+        <activity
+            android:name=".thiruvilakustotiram"
+            android:exported="true" />
+        <activity
+            android:name=".ullamurugatheymurugar"
+            android:exported="true" />
+        <activity
+            android:name=".varalaxmi108potri"
+            android:exported="true" />
+        <activity
+            android:name=".varavendumneeyae"
+            android:exported="true" />
+        <activity
+            android:name=".venkateshwara"
+            android:exported="true" />
+        <activity
+            android:name=".venketasasubrabharatham"
+            android:exported="true" />
+        <activity
+            android:name=".venkateshwarakaravelambu"
+            android:exported="true" />
+        <activity
+            android:name=".villaniveeranae"
+            android:exported="true" />
+        <activity
+            android:name=".vinayaganevinaithirpavanae"
+            android:exported="true" />
+        <activity
+            android:name=".vishnusrinarayana"
+            android:exported="true" />
+        <activity
+            android:name=".vinayagarpotri"
+            android:exported="true" />
+        <activity
+            android:name=".vishnusahasranamam"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

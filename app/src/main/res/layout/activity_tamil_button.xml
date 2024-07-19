@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF7F7"
+    android:contentDescription="@string/appbar_scrolling_view_behavior"
+    tools:context=".TamilButton">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/vinayagar"
+            android:layout_width="match_parent"
+            android:layout_height="483dp"
+
+            app:srcCompat="@drawable/vinayagar800" />
+
+        <TextView
+            android:id="@+id/vinayagartxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textStyle="bold"
+
+            android:text="விநாயகர்"
+
+
+            android:textColor="@color/black" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            ads:adSize="MEDIUM_RECTANGLE"
+            ads:adUnitId="@string/banner_ad_unit_id" />
+
+        <ImageView
+            android:id="@+id/Murugar"
+            android:layout_width="match_parent"
+            android:layout_height="536dp"
+            android:layout_gravity="center|center_vertical"
+            app:srcCompat="@drawable/murugar" />
+
+        <TextView
+            android:id="@+id/murugartxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="முருகர்"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/SHIVAN"
+            android:layout_width="match_parent"
+            android:layout_height="619dp"
+            android:layout_gravity="center_vertical|fill_vertical|center"
+            app:srcCompat="@drawable/shivan" />
+
+        <TextView
+            android:id="@+id/shivantxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textStyle="bold"
+            android:text="சிவன்"
+            android:textColor="@color/black" />
+
+
+        <ImageView
+            android:id="@+id/venkateshwara"
+            android:layout_width="match_parent"
+            android:layout_height="424dp"
+            android:layout_gravity="center|center_vertical|fill_vertical"
+            app:srcCompat="@drawable/venkateswara10" />
+
+        <TextView
+            android:id="@+id/venkateshwaratxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="வெங்கடேஸ்வரா"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/Laxminarshimar"
+            android:layout_width="match_parent"
+            android:layout_height="619dp"
+            android:layout_gravity="center|center_vertical|fill_vertical"
+            app:srcCompat="@drawable/c56d9a550d97c675ecf5ea55e64290ad" />
+
+        <TextView
+            android:id="@+id/laxminarashimatxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="லக்ஷ்மி நர்ஷிமார்"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/LAXMI"
+            android:layout_width="match_parent"
+            android:layout_height="619dp"
+            android:layout_gravity="center_vertical|fill_vertical"
+            app:srcCompat="@drawable/lakshmi" />
+
+        <TextView
+            android:id="@+id/Laxmitxt"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="லக்ஷ்மி"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/abirami"
+            android:layout_width="match_parent"
+            android:layout_height="494dp"
+            android:layout_gravity="center_vertical|fill_vertical"
+            android:clickable="true"
+            android:longClickable="true"
+
+            app:srcCompat="@drawable/abirami" />
+
+        <TextView
+            android:id="@+id/abiramitxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="அபிராமி"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/hanuman"
+            android:layout_width="match_parent"
+            android:layout_height="619dp"
+            android:baselineAligned="false"
+            app:srcCompat="@drawable/hanumaan" />
+
+        <TextView
+            android:id="@+id/hanumantxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="ஆஞ்சிநேயர்"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/ayyapan"
+            android:layout_width="match_parent"
+            android:layout_height="525dp"
+            app:srcCompat="@drawable/ayyapaan" />
+
+        <TextView
+            android:id="@+id/ayyapantxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="ஐயப்பன்"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:id="@+id/saibaba"
+            android:layout_width="match_parent"
+            android:layout_height="566dp"
+            app:srcCompat="@drawable/saibaba6" />
+        <TextView
+            android:id="@+id/saibabatxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="சாய்பாபா"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+
+    </LinearLayout>
+</ScrollView>

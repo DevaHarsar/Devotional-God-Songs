@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994111179651",
+    "project_id": "devotional-god-songs-f1be3",
+    "storage_bucket": "devotional-god-songs-f1be3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994111179651:android:6a932186765ff7d45b44b6",
+        "android_client_info": {
+          "package_name": "com.dev.deva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994111179651-86veja01k7v32h0udk4dv9bafi670l67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-pGjSz2PMnGH_eP3bFYAJOOtwrtAXRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994111179651-86veja01k7v32h0udk4dv9bafi670l67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

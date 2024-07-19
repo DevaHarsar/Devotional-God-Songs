@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:id="@+id/kuraiondrum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kuraionrumillai"
+        android:textSize="20sp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:scrollbarStyle="insideInset"
+        android:padding="15dp"/>
+</ScrollView>

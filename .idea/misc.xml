@@ -1,0 +1,43 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_aanai_mukathan.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_abirami.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_abiramianthathi.xml" value="0.1095544327055581" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_abiramisong.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_ainthukarathanai.xml" value="0.19220308250226656" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_astalaxmi.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_ayyapan.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_english.xml" value="0.1" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_hanuman.xml" value="0.2484375" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_language.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_laxmi.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_laxminarasimar.xml" value="0.2484375" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_mahalaxmislogan.xml" value="0.2484375" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_managalaroopini.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_murugar.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_murugarvaruvan.xml" value="0.12277992277992278" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_shivan.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_tamil_button.xml" value="0.1" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_thiruvembavai.xml" value="0.25" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_venkateshwara.xml" value="0.2484375" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_vinayagar_agaval.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_vinayagarpotri.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/layout/activity_vinayager.xml" value="0.2039333048311244" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/DEV/AndroidStudioProjects/DevotionalGodSongs/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2761557177615572" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:background="#B5A4A4"
+    android:backgroundTint="#EAE7E7"
+    android:orientation="vertical"
+    tools:context=".language"
+    tools:targetApi="lollipop">
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        ads:adSize="LARGE_BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+
+    <Button
+        android:id="@+id/ButtonTamil"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="351dp"
+        android:ellipsize="middle"
+        android:onClick="Tamil"
+        android:text="தமிழ்"
+        android:textColor="#0C0C0C"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        ads:backgroundTint="@color/white"
+        tools:ignore="OnClick"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/buttonTamil"
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="452dp"
+        android:layout_marginEnd="3dp"
+        android:ellipsize="middle"
+        android:onClick="Tamil"
+        android:text="English"
+        android:textColor="#0C0C0C"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        ads:backgroundTint="@color/white"
+        tools:ignore="OnClick"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/buttonTamil2"
+        android:layout_width="399dp"
+        android:layout_height="86dp"
+
+
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-9dp"
+        android:layout_marginTop="560dp"
+        android:layout_marginEnd="3dp"
+        android:ellipsize="middle"
+        android:onClick="Tamil"
+        android:text="हिन्दी"
+        android:textColor="#0C0C0C"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        ads:backgroundTint="@color/white"
+        tools:ignore="OnClick"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="298dp"
+        android:layout_alignTop="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="0dp"
+        android:scaleType="centerCrop"
+
+        ads:srcCompat="@drawable/main"
+        tools:srcCompat="@drawable/main" />
+
+
+</RelativeLayout>
